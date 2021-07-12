@@ -13,5 +13,5 @@ function run(cfg: Config) {
     })
 }
 
-
+// TODO: read config
 run();
