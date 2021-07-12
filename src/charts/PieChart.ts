@@ -2,7 +2,6 @@ import { Chart } from "./Chart";
 
 export class PieChart extends Chart {
 
-    id: string
     values: any
 
     constructor(id: string, values: any) {
