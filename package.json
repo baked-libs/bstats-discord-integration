@@ -3,9 +3,9 @@
     "author": "TheBusyBiscuit",
     "version": "1.0.0",
 
-    "description": "... TODO ...",
+    "description": "A simple TypeScript program which queries https://bstats.org/ and presents this data in a highly customizable discord webhook",
     "license": "MIT",
-    "main": "src/index.ts",
+    "main": "build/index.ts",
 
     "repository": {
         "type": "git",
